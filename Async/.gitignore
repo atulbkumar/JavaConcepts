@@ -1,0 +1,7 @@
+# Ignore Java class files
+*.class
+
+# IDE and build folders (add if needed)
+.idea/
+target/
+bin/
